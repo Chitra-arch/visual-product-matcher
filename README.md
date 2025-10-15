@@ -2,6 +2,9 @@
 
 A web application that helps users find visually similar products based on uploaded images. Built for a technical assessment, this app showcases image embedding, similarity search, and elegant UI design.
 
+# 🚀 Live Demo
+[Click here to try it](https://visual-thing-matchergit-jdmrqz3sypuyqzs4p2bvri.streamlit.app)
+
 ## 🚀 Features
 
 - 📤 Upload image or paste URL
